@@ -1,5 +1,6 @@
-## Terminology and Data
 
+Terminology and Data
+----------------------
  * **OCPI** Open Charge Point Interface
  * **NDR** Notification Detail Record
  * **CDR** Charge Detail Record
@@ -7,7 +8,7 @@
  * **eMSP** e-Mobility Service Provider
 
 
-### Charging topology
+## Charging topology
 
 The charging topology, as relevant to the eMSP, consists of three entities:
 
